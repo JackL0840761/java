@@ -1,0 +1,24 @@
+Habitat 0:
+Specie hyena
+ID: 0, Name: Shenzi, Birthday: 26-March-2018, Age: 4, Sex: female, Specie: hyena, colour: tan, Weight: 70, Park: Friguia, Park, from Country: Tunisia
+ID: 1, Name: Banzai, Birthday: 26-September-2010, Age: 12, Sex: male, Specie: hyena, colour: brown, Weight: 150, Park: Friguia, Park, from Country: Tunisia
+ID: 2, Name: Ed, Birthday: 26-March-2018, Age: 4, Sex: male, Specie: hyena, colour: black, Weight: 120, Park: Friguia, Park, from Country: Tunisia
+ID: 3, Name: Zig, Birthday: 26-NOVEMBER-2014, Age: 8, Sex: female, Specie: hyena, colour: black, Weight: 105, Park: Friguia, Park, from Country: Tunisia
+Habitat 1:
+Specie lion
+ID: 4, Name: Scar, Birthday: 26-March-2016, Age: 6, Sex: female, Specie: lion, colour: tan, Weight: 300, Park: Zanzibar, Park, from Country: Tanzania
+ID: 5, Name: Mufasa, Birthday: 26-December-2010, Age: 12, Sex: female, Specie: lion, colour: dark, Weight: 375, Park: KopeLion, Park, from Country: Tanzania
+ID: 6, Name: Simba, Birthday: 26-September-2000, Age: 22, Sex: male, Specie: lion, colour: golden, Weight: 450, Park: Zanzibar, Park, from Country: Tanzania
+ID: 7, Name: Kiara, Birthday: 26-March-2018, Age: 4, Sex: female, Specie: lion, colour: tan, Weight: 275, Park: KopeLion, Park, from Country: Tanzania
+Habitat 2:
+Specie tiger
+ID: 8, Name: Tony, Birthday: 26-March-2020, Age: 2, Sex: male, Specie: tiger, colour: gold, Weight: 270, Park: Dhaka, Park, from Country: Bangladesh
+ID: 9, Name: Tigger, Birthday: 26-March-2018, Age: 4, Sex: female, Specie: tiger, colour: black, Weight: 400, Park: Dhaka, Park, from Country: Bangladesh
+ID: 10, Name: Amber, Birthday: 26-September-2004, Age: 18, Sex: male, Specie: tiger, colour: gold, Weight: 300, Park: Bardia, Park, from Country: Nepal
+ID: 11, Name: Cosimia, Birthday: 26-March-2019, Age: 3, Sex: female, Specie: tiger, colour: black, Weight: 285, Park: Bardia, Park, from Country: Nepal
+Habitat 3:
+Specie bear
+ID: 12, Name: Yogi, Birthday: 26-March-2015, Age: 7, Sex: male, Specie: bear, colour: brown, Weight: 320, Park: Alaska, Park, from Country: Alaska
+ID: 13, Name: Smokey, Birthday: 26-March-1997, Age: 25, Sex: female, Specie: bear, colour: black, Weight: 425, Park: Woodland, Park, from Country: Washington 
+ID: 14, Name: Paddington, Birthday: 26-September-2018, Age: 4, Sex: female, Specie: bear, colour: black, Weight: 355, Park: Woodland, Park, from Country: Washington 
+ID: 15, Name: Lippy, Birthday: 26-March-2018, Age: 4, Sex: male, Specie: bear, colour: brown, Weight: 405, Park: Alaska, Park, from Country: Alaska
